@@ -1,13 +1,13 @@
 package com.gourabix.jaxb2pojo;
 
 /**
- * Hello world!
+ * This is just the main class.
+ * 
+ * @author Gourab Sarkar
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+	public static void main(String[] args) {
+		// do nothing here because nothing needs to be done.
+	}
 }
